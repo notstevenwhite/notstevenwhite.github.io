@@ -1,0 +1,55 @@
+<html>
+
+<head>  
+  
+<style>
+
+body {margin-left: 19%; margin-right: 19%; padding: 10px 10px 10px 10px;}
+p{line-height:1.25; }
+a:link{color:grey}
+a:visited{color:grey}
+body {background-color: white;}
+
+</style>
+
+<title>Steven White, Syracuse University</title>
+  
+ </head
+  
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WRYRFBBCT7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WRYRFBBCT7');
+</script>
+  
+  <body>
+
+<br><br><br>
+
+<font size="+3"><b>Interested in playing chess in Syracuse?</b></font><br><br>
+
+
+<p>
+Meet-ups: 
+  
+</p>
+
+
+<ul>
+
+  <li>Wednesdays, 6:30pm until people leave, Wegmans DeWitt cafe</li>
+
+  <p>
+
+  <li>Thursdays, 1pm until approximately 5pm, Barnes and Nobel DeWitt cafe</li>
+
+  </ul>
+
+    
+  </body>
+  
+</html>
